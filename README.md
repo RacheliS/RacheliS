@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Racheli Amrusi
 - 👀 I’m working as Java & React full stack developer @IDI INSURANCE.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me r.sulemany@gmail.co 
 
 <!---
