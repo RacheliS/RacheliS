@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Racheli Amrusi
 - 👀 I work as Java / Node & React full stack developer
--  👀 I am Leadig students (node.js & React )projects
+-  👀 I am leading students (node.js & React )projects
 - 📫 How to reach me r.sulemany@gmail.com | 0527602938
 
 <!---
